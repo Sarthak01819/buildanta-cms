@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Buildanta CMS — Projects</title>
+  <link rel="icon" href="/logo.webp" />
+  <link rel="stylesheet" href="/app.css" />
+  <meta name="cms-token" content="__CMS_TOKEN__" />
+</head>
+<body>
+  <header class="bar">
+    <div class="brand"><img src="/logo.webp" alt="" /><span>Buildanta CMS</span><em>Projects</em></div>
+    <div class="status" data-status>Loading…</div>
+    <div class="actions">
+      <a class="btn ghost" data-preview target="_blank" rel="noopener">Preview site ↗</a>
+      <button class="btn" data-new type="button">+ New project</button>
+      <button class="btn primary" data-save type="button" disabled>Save</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="list">
+      <div class="list__head"><span data-count>0 projects</span><small>Drag to reorder — order = position in the world</small></div>
+      <ol class="list__items" data-list></ol>
+    </aside>
+
+    <section class="editor" data-editor hidden>
+      <div class="media" data-drop>
+        <div class="media__preview" data-preview-media></div>
+        <div class="media__hint">
+          <strong>Drop an image or video here</strong>
+          <span>JPG · PNG · WebP · MP4 — size is detected automatically</span>
+          <label class="btn ghost small">Choose file<input type="file" data-file accept=".jpg,.jpeg,.png,.webp,.mp4" hidden /></label>
+        </div>
+      </div>
+
+      <div class="grid">
+        <label>Title<input data-f="title" maxlength="120" /></label>
+        <label>Author<input data-f="author" maxlength="120" /></label>
+        <label class="wide">Caption <small>(short line under the card)</small><input data-f="caption" maxlength="300" /></label>
+        <label class="wide">Description <small>(project page body)</small><textarea data-f="body" rows="7" maxlength="8000"></textarea></label>
+        <label>Link <small>#/work/…</small><input data-f="slug" maxlength="48" /></label>
+        <label>Accent colour<span class="color"><input type="color" data-f="color" /><code data-color-code></code></span></label>
+        <label class="check"><input type="checkbox" data-f="show_caption" /> Show caption on the card</label>
+        <div class="meta" data-meta></div>
+      </div>
+
+      <div class="danger"><button class="btn danger-btn" data-delete type="button">Delete project</button></div>
+    </section>
+
+    <section class="empty" data-empty>
+      <p>Select a project on the left, or add a new one.</p>
+    </section>
+  </main>
+
+  <script src="/app.js" type="module"></script>
+</body>
+</html>
