@@ -1,0 +1,930 @@
+[
+  {
+    "type": "video",
+    "title": "Dhandho",
+    "author": "Buildanta",
+    "caption": "Hindi-first books for Indian shops.",
+    "link": "#/work/dhandho",
+    "color": "#ec1313",
+    "file": "/world/art/placeholder-01.mp4",
+    "show_caption": true,
+    "body": "Billing, ledger, stock and staff for a shop that runs in Hindi — built because the accounting software Indian shopkeepers are sold assumes they read English and employ someone to do data entry. Invoicing, a running customer ledger, a barcode counter with batch and expiry, shared expenses between partners, and a CA pack at the end of the year.",
+    "gallery": [],
+    "image_size": [
+      512,
+      342
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Panchratna Jewellers",
+    "author": "Buildanta",
+    "caption": "A jewellery house, online.",
+    "link": "#/work/panchratna-jewellers",
+    "color": "#13ec52",
+    "file": "/world/art/placeholder-24.jpg",
+    "show_caption": true,
+    "body": "A showcase site for a Kanpur jewellery house — built in our premium lane, where the brief is that the site should feel like the shop rather than like a catalogue.",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Sai Applewood",
+    "author": "Buildanta",
+    "caption": "A school site parents can actually use.",
+    "link": "#/work/sai-applewood",
+    "color": "#9213ec",
+    "file": "/world/art/placeholder-47.jpg",
+    "show_caption": true,
+    "body": "A website for Sai Applewood Public School. The audience is a parent on a phone, on mobile data, looking for one specific thing — so the build is organised around finding that thing quickly rather than around the brochure.",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Kids Canvas",
+    "author": "Buildanta",
+    "caption": "A play school, on the web and on the gate.",
+    "link": "#/work/kids-canvas",
+    "color": "#ecd113",
+    "file": "/world/art/placeholder-12.mp4",
+    "show_caption": true,
+    "body": "Website and identity for Kids Canvas, and the school where our RFID attendance work started — the gate hardware and the parent-facing system grew out of what this one school needed.",
+    "gallery": [],
+    "image_size": [
+      342,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "TapScholar",
+    "author": "Buildanta",
+    "caption": "RFID attendance, then the whole school.",
+    "link": "#/work/tapscholar",
+    "color": "#13c8ec",
+    "file": "/world/art/placeholder-35.jpg",
+    "show_caption": true,
+    "body": "A school ERP that began as an RFID attendance gate and grew into fees, records and parent communication. Built for one school first and then generalised, which is the only order that produces software a school will actually use.",
+    "gallery": [],
+    "image_size": [
+      512,
+      384
+    ]
+  },
+  {
+    "type": "image",
+    "title": "AquaLevel",
+    "author": "Buildanta",
+    "caption": "Know your water tank from your phone.",
+    "link": "#/work/aqualevel",
+    "color": "#ec1388",
+    "file": "/world/art/placeholder-58.jpg",
+    "show_caption": true,
+    "body": "A water-level sensor for domestic and commercial tanks, with the reading on a phone. Aimed at Indian cities where the tank fills on a schedule nobody controls and the first sign of a problem is a dry tap.",
+    "gallery": [],
+    "image_size": [
+      410,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "ART Mechatronics",
+    "author": "Buildanta",
+    "caption": "Industrial automation, made findable.",
+    "link": "#/work/art-mechatronics",
+    "color": "#49ec13",
+    "file": "/world/art/placeholder-23.jpg",
+    "show_caption": true,
+    "body": "A site for a Kanpur industrial automation firm, built alongside the search and answer-engine work — because a specialist supplier is only worth finding if the people looking can find them.",
+    "gallery": [],
+    "image_size": [
+      512,
+      410
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Buildanta Marketplace",
+    "author": "Buildanta",
+    "caption": "Construction material, ordered online.",
+    "link": "#/work/buildanta-marketplace",
+    "color": "#1c13ec",
+    "file": "/world/art/placeholder-46.jpg",
+    "show_caption": true,
+    "body": "A storefront for construction materials with cash on delivery and OTP checkout — the two things that decide whether an Indian contractor completes an order. Built so the same checkout serves a person and, later, an agent.",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Buildanta Studios",
+    "author": "Buildanta",
+    "caption": "The Shutter — a scroll film.",
+    "link": "#/work/buildanta-studios",
+    "color": "#ec5c13",
+    "file": "/world/art/placeholder-11.mp4",
+    "show_caption": true,
+    "body": "A cinematic microsite that plays as one continuous film while you scroll. Made to answer a question we kept being asked: what does the expensive version actually look like.",
+    "gallery": [],
+    "image_size": [
+      512,
+      320
+    ]
+  },
+  {
+    "type": "image",
+    "title": "DS Homeo Clinic",
+    "author": "Buildanta",
+    "caption": "A clinic online, with teleconsultation.",
+    "link": "#/work/ds-homeo-clinic",
+    "color": "#13ec9b",
+    "file": "/world/art/placeholder-34.jpg",
+    "show_caption": true,
+    "body": "A website and teleconsultation booking flow for a homeopathy clinic in Kanpur, so a patient can find the practice, understand the timings and book without calling.",
+    "gallery": [],
+    "image_size": [
+      288,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Saltwood",
+    "author": "Buildanta",
+    "caption": "Quiet, and fast.",
+    "link": "#/work/saltwood",
+    "color": "#da13ec",
+    "file": "/world/art/placeholder-57.jpg",
+    "show_caption": true,
+    "body": "A restrained brand site — the kind of build where the work shows up as everything you do not notice: how quickly it loads, how it behaves on a bad connection, how little it asks of you.",
+    "gallery": [],
+    "image_size": [
+      205,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Jarvis",
+    "author": "Buildanta",
+    "caption": "A voice assistant that speaks Hinglish.",
+    "link": "#/work/jarvis",
+    "color": "#beec13",
+    "file": "/world/art/placeholder-22.jpg",
+    "show_caption": true,
+    "body": "A speaking assistant built for how people in India actually talk — Hindi and English in the same sentence, which is the case almost every voice product handles badly.",
+    "gallery": [],
+    "image_size": [
+      341,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 45",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-45",
+    "color": "#137fec",
+    "file": "/world/art/placeholder-45.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      410,
+      512
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 10",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-10",
+    "color": "#ec1340",
+    "file": "/world/art/placeholder-10.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      384
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 33",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-33",
+    "color": "#13ec26",
+    "file": "/world/art/placeholder-33.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      384,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 56",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-56",
+    "color": "#6513ec",
+    "file": "/world/art/placeholder-56.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      256,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 21",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-21",
+    "color": "#eca413",
+    "file": "/world/art/placeholder-21.jpg",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      455
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 44",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-44",
+    "color": "#13ece3",
+    "file": "/world/art/placeholder-44.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      256
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 09",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-09",
+    "color": "#ec13b5",
+    "file": "/world/art/placeholder-09.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      410
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 32",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-32",
+    "color": "#76ec13",
+    "file": "/world/art/placeholder-32.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      410,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 55",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-55",
+    "color": "#1337ec",
+    "file": "/world/art/placeholder-55.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      455
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 20",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-20",
+    "color": "#ec2f13",
+    "file": "/world/art/placeholder-20.jpg",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      230
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 43",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-43",
+    "color": "#13ec6e",
+    "file": "/world/art/placeholder-43.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 08",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-08",
+    "color": "#ad13ec",
+    "file": "/world/art/placeholder-08.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      288
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 31",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-31",
+    "color": "#ebec13",
+    "file": "/world/art/placeholder-31.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      341
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 54",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-54",
+    "color": "#13acec",
+    "file": "/world/art/placeholder-54.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      288
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 19",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-19",
+    "color": "#ec136d",
+    "file": "/world/art/placeholder-19.jpg",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      455,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 42",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-42",
+    "color": "#2dec13",
+    "file": "/world/art/placeholder-42.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 07",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-07",
+    "color": "#3813ec",
+    "file": "/world/art/placeholder-07.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      384,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 30",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-30",
+    "color": "#ec7713",
+    "file": "/world/art/placeholder-30.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      288,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 53",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-53",
+    "color": "#13ecb7",
+    "file": "/world/art/placeholder-53.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      320
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 18",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-18",
+    "color": "#ec13e2",
+    "file": "/world/art/placeholder-18.jpg",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      410
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 41",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-41",
+    "color": "#a3ec13",
+    "file": "/world/art/placeholder-41.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      455
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 06",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-06",
+    "color": "#1363ec",
+    "file": "/world/art/placeholder-06.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      342,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 29",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-29",
+    "color": "#ec1324",
+    "file": "/world/art/placeholder-29.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 52",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-52",
+    "color": "#13ec41",
+    "file": "/world/art/placeholder-52.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      256
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 17",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-17",
+    "color": "#8113ec",
+    "file": "/world/art/placeholder-17.jpg",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      205
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 40",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-40",
+    "color": "#ecc013",
+    "file": "/world/art/placeholder-40.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      320
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 05",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-05",
+    "color": "#13d9ec",
+    "file": "/world/art/placeholder-05.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 28",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-28",
+    "color": "#ec1399",
+    "file": "/world/art/placeholder-28.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 51",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-51",
+    "color": "#5aec13",
+    "file": "/world/art/placeholder-51.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      230,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 16",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-16",
+    "color": "#131bec",
+    "file": "/world/art/placeholder-16.jpg",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      147
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 39",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-39",
+    "color": "#ec4a13",
+    "file": "/world/art/placeholder-39.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 04",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-04",
+    "color": "#13ec8a",
+    "file": "/world/art/placeholder-04.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      384
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 27",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-27",
+    "color": "#c913ec",
+    "file": "/world/art/placeholder-27.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      341
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 50",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-50",
+    "color": "#d0ec13",
+    "file": "/world/art/placeholder-50.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 15",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-15",
+    "color": "#1390ec",
+    "file": "/world/art/placeholder-15.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      384,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 38",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-38",
+    "color": "#ec1351",
+    "file": "/world/art/placeholder-38.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      384
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 03",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-03",
+    "color": "#13ec14",
+    "file": "/world/art/placeholder-03.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      320,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 26",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-26",
+    "color": "#5413ec",
+    "file": "/world/art/placeholder-26.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      205
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 49",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-49",
+    "color": "#ec9313",
+    "file": "/world/art/placeholder-49.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      384,
+      512
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 14",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-14",
+    "color": "#13ecd2",
+    "file": "/world/art/placeholder-14.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      456,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 37",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-37",
+    "color": "#ec13c6",
+    "file": "/world/art/placeholder-37.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      320,
+      512
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 02",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-02",
+    "color": "#87ec13",
+    "file": "/world/art/placeholder-02.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      288
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 25",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-25",
+    "color": "#1348ec",
+    "file": "/world/art/placeholder-25.jpg",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      341
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 48",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-48",
+    "color": "#ec1e13",
+    "file": "/world/art/placeholder-48.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      230
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Placeholder 13",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-13",
+    "color": "#13ec5d",
+    "file": "/world/art/placeholder-13.mp4",
+    "show_caption": true,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      148,
+      512
+    ]
+  },
+  {
+    "type": "image",
+    "title": "Placeholder 36",
+    "author": "Buildanta",
+    "caption": "Replace with real project copy.",
+    "link": "#/work/placeholder-36",
+    "color": "#9c13ec",
+    "file": "/world/art/placeholder-36.jpg",
+    "show_caption": false,
+    "body": "",
+    "gallery": [],
+    "image_size": [
+      512,
+      341
+    ]
+  }
+]
