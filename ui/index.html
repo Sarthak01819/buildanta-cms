@@ -11,7 +11,8 @@
 </head>
 <body>
   <header class="bar">
-    <div class="brand"><img src="/logo.webp" alt="" /><span>Buildanta CMS</span><em>Projects</em></div>
+    <div class="brand"><img src="/logo.webp" alt="" /><span>Buildanta CMS</span></div>
+    <nav class="tabs"><button type="button" class="tab on" data-tab="projects">Projects</button><button type="button" class="tab" data-tab="services">Services reel</button></nav>
     <div class="status" data-status>Loading…</div>
     <div class="actions">
       <a class="btn ghost" data-preview target="_blank" rel="noopener">Preview site ↗</a>
@@ -20,7 +21,7 @@
     </div>
   </header>
 
-  <main class="layout">
+  <main class="layout" data-pane="projects">
     <aside class="list">
       <div class="list__head"><span data-count>0 projects</span><small>Drag to reorder — order = position in the world</small></div>
       <ol class="list__items" data-list></ol>
@@ -55,6 +56,35 @@
     </section>
   </main>
 
+  <main class="layout" data-pane="services" hidden>
+    <aside class="list">
+      <div class="list__head"><span data-s-count>0 services</span><small>Drag to reorder — order = order on the camera reel</small></div>
+      <ol class="list__items" data-s-list></ol>
+    </aside>
+    <section class="editor" data-s-editor hidden>
+      <div class="media" data-s-drop>
+        <div class="media__preview" data-s-art></div>
+        <div class="media__hint">
+          <strong>Reel plate image</strong>
+          <span>JPG · PNG · WebP — shown on the film plate</span>
+          <label class="btn ghost small">Choose image<input type="file" data-s-file accept=".jpg,.jpeg,.png,.webp" hidden /></label>
+        </div>
+      </div>
+      <div class="grid">
+        <label>Word <small>(big word on the plate, e.g. SEO)</small><input data-s="word" maxlength="40" /></label>
+        <label>ID <small>(fixed once saved)</small><input data-s="id" maxlength="32" /></label>
+        <label class="wide">Headline <small>(new line = line break)</small><textarea data-s="line" rows="2" maxlength="200"></textarea></label>
+        <label class="wide">Tag line <small>(e.g. TECHNICAL · CONTENT · AUTHORITY)</small><input data-s="tag" maxlength="120" /></label>
+        <label class="wide">What it is<textarea data-s="what" rows="3" maxlength="1200"></textarea></label>
+        <label class="wide">Who it's for<input data-s="who" maxlength="400" /></label>
+        <label class="wide">What they get <small>(one per line)</small><textarea data-s="gets" rows="4"></textarea></label>
+      </div>
+      <div class="danger"><button class="btn danger-btn" data-s-delete type="button">Delete service</button></div>
+    </section>
+    <section class="empty" data-s-empty><p>Select a service on the left, or add a new one.</p></section>
+  </main>
+
   <script src="/app.js" type="module"></script>
+  <script src="/services.js" type="module"></script>
 </body>
 </html>

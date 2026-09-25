@@ -133,6 +133,7 @@ el.drop.addEventListener("drop", (e) => { e.preventDefault(); el.drop.classList.
 
 /* ── new / delete / save ── */
 $("[data-new]").addEventListener("click", () => {
+  if (document.body.dataset.mode === "services") return;
   const n = projects.length + 1;
   projects.push({ _new: true, type: "image", title: `New project ${n}`, author: "Buildanta", caption: "", body: "",
     link: `#/work/new-project-${n}`, color: "#3d7bd9", file: "", show_caption: true, gallery: [], image_size: [512, 342] });
@@ -146,6 +147,7 @@ $("[data-delete]").addEventListener("click", () => {
   markDirty(); select(Math.min(current, projects.length - 1));
 });
 el.save.addEventListener("click", async () => {
+  if (document.body.dataset.mode === "services") return;
   el.save.disabled = true; setStatus("Saving…");
   try {
     const body = JSON.stringify({ projects: projects.map(({ _new, _slugTouched, ...p }) => p) });
@@ -156,7 +158,7 @@ el.save.addEventListener("click", async () => {
   } catch (e) { el.save.disabled = false; setStatus(`Not saved: ${e.message}`, "err"); }
 });
 addEventListener("beforeunload", (e) => { if (dirty) { e.preventDefault(); e.returnValue = ""; } });
-addEventListener("keydown", (e) => { if ((e.ctrlKey || e.metaKey) && e.key === "s") { e.preventDefault(); if (dirty) el.save.click(); } });
+addEventListener("keydown", (e) => { if (document.body.dataset.mode !== "services" && (e.ctrlKey || e.metaKey) && e.key === "s") { e.preventDefault(); if (dirty) el.save.click(); } });
 
 /* ── boot ── */
 api("/api/projects").then((r) => {
@@ -166,3 +168,9 @@ api("/api/projects").then((r) => {
   el.status.title = r.site;   // full path on hover
   renderList();
 }).catch((e) => setStatus(`Couldn't load projects: ${e.message}`, "err"));
+
+// back on the Projects tab: the shared Save button shows this tab's state
+document.addEventListener("cms:projects-shown", () => {
+  el.save.disabled = !dirty;
+  setStatus(dirty ? "Unsaved changes" : `${projects.length} projects`, dirty ? "dirty" : "");
+});

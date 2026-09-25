@@ -66,3 +66,8 @@ button, input, textarea { font: inherit; color: inherit; }
 .check { flex-direction: row !important; align-items: center; gap: 8px !important; color: var(--ink) !important; }
 .meta { grid-column: 1 / -1; color: #5f6875; font-size: 12px; }
 .danger { margin-top: 26px; padding-top: 16px; border-top: 1px solid var(--line); }
+
+.tabs { display: flex; gap: 4px; margin-left: 8px; }
+.tab { background: transparent; border: 1px solid transparent; border-radius: 8px; padding: 6px 12px; color: var(--muted); cursor: pointer; }
+.tab.on { color: var(--ink); background: #1b2027; border-color: var(--line); }
+.layout[hidden] { display: none; }
